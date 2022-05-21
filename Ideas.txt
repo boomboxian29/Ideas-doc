@@ -1,0 +1,5 @@
+1. Naruto Pixel art generator.(Abandoned)
+2. Random Naruto character generator textual.(Randomly generates Characters abilities characteristics through text.)
+3. Higher or lower buildings edition.(Higher Lower With Buildings Height)
+4. Are U Sleeeping.(A game where U are on a computer late at night and your mother walks in at random times to check if u r sleeping.)
+5. Arguementz.(A game where the player has to form offensive sentences witha couple of options not knowing what the next set will be.)
